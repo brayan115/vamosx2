@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    me aburre el tutorial de laravel
+                    me aburre el tutorial de laravel vamos git
                 </div>
 
                 <div class="links">
